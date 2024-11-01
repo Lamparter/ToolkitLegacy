@@ -22,11 +22,6 @@ The toolkit has been migrated to new infrastructure in [this repository](https:/
 
 [Read the original blog post that explained this here](https://devblogs.microsoft.com/ifdef-windows/the-windows-community-toolkit-2023-update/), **but see latest information at the top of this file**.
 
-## 🧪 Windows Community Toolkit Labs 💻
-Labs makes it easy to contribute to the Windows Community Toolkit, try out new features still in development, and collaborate with others.
-
-Find out more [here](https://aka.ms/toolkit/labs/windows).
-
 ## 📄 Code of Conduct
 
 This project has adopted the code of conduct defined by the [Contributor Covenant](http://contributor-covenant.org/)
